@@ -1,5 +1,5 @@
 # REDUCING THE COMPUTATIONAL COMPLEXITY OF LEARNING WITH RANDOM CONVOLUTIONAL FEATURES
-This Demo is an implementation of the E-ROCKET feature selection method for removing redundancies of  [MINIROCKET featurs](https://github.com/angus924/minirocket). For the first time, E-ROCKET uses supervised feature selection to reduce the computational complexity of learning with random features.
+This Demo is an implementation of the E-ROCKET feature selection method for removing redundancies of  [MINIROCKET featurs](https://github.com/angus924/minirocket). E-ROCKET uses supervised feature selection to reduce the computational complexity of learning with random features.
 
 Please cite this work in the following manner:
 
