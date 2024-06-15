@@ -1,4 +1,4 @@
-Hello everybody. In this folder, I've provided the result of running Erocket over all 128 UCR classification datasets. The number of iterations for each dataset is 30.
+Hello everybody. In this folder, I've provided the results of running Erocket over all 128 UCR classification datasets. The number of iterations for each dataset is 30.
 
 1. `erocket.xlsx` contains the results of all 30 iterations over 128 UCR datasets. The columns are as follows:
     1. Row number,
